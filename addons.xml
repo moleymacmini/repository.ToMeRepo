@@ -35,7 +35,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="repository.ToMeRepo" name=".[COLOR blue]..~ToMeRepo~[/COLOR] [COLOR yellow]Repository...®[/COLOR]" version="1.0.6" provider-name="ToMeR">
+<addon id="repository.ToMeRepo" name=".[COLOR blue]..~ToMeRepo~[/COLOR] [COLOR yellow]Repository...®[/COLOR]" version="1.0.7" provider-name="ToMeR">
 	<extension point="xbmc.addon.repository" name="ToMeRepo">
 		<info compressed="false">http://tomerepo.comli.com/Zips/addons.xml</info>
 		<checksum>http://tomerepo.comli.com/Zips/addons.xml.md5</checksum>
