@@ -1,6 +1,11 @@
 =======================================
 TeeVee by natko1412
 =======================================
+v2.0.0
+-rework of the addon
+-prepare strings for translation
+-replace axel with transmogrifier (experimental usage)
+
 v1.0.5 [25-Jun-2016]
 -fix playback
 -improve autoplay
