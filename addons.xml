@@ -805,7 +805,7 @@ Plugin by @koderdude</description>
 </addon>
 <addon id="plugin.audio.99fm-playlists"
        name="99FM Playlists"
-       version="0.4.3"
+       version="0.4.5"
        provider-name="nirelbaz">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>

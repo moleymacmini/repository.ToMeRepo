@@ -1,4 +1,4 @@
-v0.4.3
+v0.4.5
 - Fix bug - plays only the first 2 seconds
 - Extra features removed, will be added back on next release
 
