@@ -1821,7 +1821,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
  </addon>
  <addon id="plugin.video.AK-47"
        name="[COLOR red]AK[/COLOR] [COLOR yellow]-[/COLOR] [COLOR turquoise]47[/COLOR]"
-       version="1.0.4"
+       version="1.0.6"
        provider-name="[COLOR red][B]COLD[/B][/COLOR][COLOR turquoise][B]FIRE[/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
