@@ -2990,8 +2990,7 @@ We have no control over the links on any site that we provide a link to. If you 
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" />
     <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="repository.podgod" />    
+    <import addon="script.module.simplejson" />    
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
