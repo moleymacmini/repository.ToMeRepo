@@ -1371,7 +1371,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
 	 <email></email>
    </extension>
 </addon>
-<addon id="plugin.video.specto" name="Specto - ... Fork"  version="2016.07.02.1" provider-name="mrknow" >
+<addon id="plugin.video.specto" name="Specto - ... Fork"  version="2016.07.02.2" provider-name="mrknow" >
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.requests" version="1.0.0" />
@@ -1447,7 +1447,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
 </addon>
 <addon id="script.module.liveresolver" 
      name="LiveResolver" 
-     version="0.1.44" 
+     version="0.1.45" 
      provider-name="natko1412">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
@@ -2206,7 +2206,7 @@ Highly configurable: Set your PIN, set your watershed time, exclude addons if re
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.castaway" name="Castaway" version="0.2.5" provider-name="natko1412">
+<addon id="plugin.video.castaway" name="Castaway" version="0.2.6" provider-name="natko1412">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -3007,6 +3007,28 @@ We have no control over the links on any site that we provide a link to. If you 
     <website>http://twitter.com/ccloudapp</website>
     <email></email>
     <platform>all</platform>
+  </extension>
+</addon>
+<addon id="script.module.addon.common" 
+	     name="Common addon methods" 
+	     version="2.0.1" 
+	     provider-name="Eldorado (original: t0mm0)">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>  
   </extension>
 </addon>
 </addons>
