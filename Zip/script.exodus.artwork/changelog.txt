@@ -1,3 +1,7 @@
+[B]1.0.2[/B]
+- Added new icons
+- Made addon an image resource
+
 [B]1.0.1[/B]
 - Added Exuary theme
 
