@@ -1,7 +1,14 @@
 ------------------------
-TinklePad v1.1.2.01 (20 Jun-16)
+TinklePad v1.1.4 (04 Jul-16)
+
+- Support for Exodus 2.0.0
+- Minor improvements
+
+------------------------
+TinklePad v1.1.3 (20 Jun-16)
 
 - Can now search movies by director
+- Added People, Male, and Female icons
 
 ------------------------
 TinklePad v1.1.2 (19 Jun-16)

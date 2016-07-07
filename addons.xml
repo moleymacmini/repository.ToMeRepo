@@ -2514,7 +2514,7 @@ Highly configurable: Set your PIN, set your watershed time, exclude addons if re
      <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.tinklepad" name="TinklePad" version="1.1.2.01" provider-name="jsergio">
+<addon id="plugin.video.tinklepad" name="TinklePad" version="1.1.4" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.metahandler" version="1.0.0"/>
