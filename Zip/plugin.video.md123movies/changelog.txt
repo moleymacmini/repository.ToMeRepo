@@ -1,6 +1,3 @@
-v1.1.3
-- Fixed resolver issues 
-- changed the main icon thanks to @Albertn198 for creating it for me
 
 v1.1.2
 - fixed resolver issues
