@@ -225,7 +225,7 @@ Plugin by @koderdude</description>
 		<website>http://www.tvaddons.ag/</website>
 	</extension>
 </addon>
-<addon id="plugin.video.salts" version="2.0.67" name="Stream All The Sources" provider-name="tknorris">
+<addon id="plugin.video.salts" version="2.0.68" name="Stream All The Sources" provider-name="tknorris">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver" version="3.0.0"/>
@@ -2657,7 +2657,7 @@ Highly configurable: Set your PIN, set your watershed time, exclude addons if re
 		<language></language>
 	</extension>
 </addon>
-<addon id="script.specto.media" version="2016.06.30" name="Specto Media" provider-name="mrknow" >
+<addon id="script.specto.media" version="2016.07.07" name="Specto Media" provider-name="mrknow" >
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -2689,7 +2689,7 @@ Highly configurable: Set your PIN, set your watershed time, exclude addons if re
 </addon>
 <addon id="plugin.video.communityallsorts"
        name="[COLOR gold]-COMMUNITY-ALLSORTS-[/COLOR]"
-       version="2.7"
+       version="2.8"
        provider-name="[COLOR blue]COMMUNITY-REPO-TEAM[/COLOR][COLOR gold]-@COMMUNITYREPO @DIBBO10069 @DETECTIVEKODI @KODICOMMUNITY @ALEIGHTY80 @PBEAR90 @DTGSKINS  @STEVIEK1979 @_HAX0R @OLDGIT9 @CLASSICNANCY @KODI_MAD-[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
