@@ -1,3 +1,9 @@
+[B]2.0.2[/B]
+- Code cosmetics
+
+[B]2.0.1[/B]
+- Code cosmetics
+
 [B]2.0.0[/B]
 - Tweaked all context menus
 - Tweaked all addon settings

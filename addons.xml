@@ -76,7 +76,7 @@ Plugin by @koderdude</description>
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.exodus" version="2.0.1.1" name="Exodus" provider-name="Exodus">
+<addon id="plugin.video.exodus" version="2.0.2" name="Exodus" provider-name="Exodus">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="repository.exodus" version="1.0.0" />
@@ -805,7 +805,7 @@ Plugin by @koderdude</description>
 </addon>
 <addon id="plugin.audio.99fm-playlists"
        name="99FM Playlists"
-       version="0.4.5"
+       version="0.4.6"
        provider-name="nirelbaz">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -3070,4 +3070,21 @@ We have no control over the links on any site that we provide a link to. If you 
     <platform>all</platform>
   </extension>
 </addon>
+<addon id="plugin.video.thewiz.wall" name="TheWiz Media Wall" version="2.5.4" provider-name="TheWiz">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+	<extension point="xbmc.service" library="service.py" start="[login|startup]"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">TheWiz Wall Movies and TV series</summary>
+        <summary lang="he">קיר הסרטים והסדרות של TheWiz</summary>
+        <description lang="en"></description>
+        <description lang="he">קיר סרטים וסדרות עם תוספי צפיה ישירה בלחיצת כפתור.</description>
+        <disclaimer></disclaimer>
+    </extension>
+ </addon>
 </addons>
