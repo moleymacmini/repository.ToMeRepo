@@ -1401,7 +1401,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
     <website>http://www.tvaddons.ag/</website>
   </extension>
 </addon>
-<addon id="plugin.video.israelive" name="[COLOR white]Israe[/COLOR][COLOR blue]L[/COLOR][COLOR white]IVE[/COLOR]" version="4.8.7" provider-name="Benny123, Avigdor (xbmc-israel repo)">
+<addon id="plugin.video.israelive" name="[COLOR white]Israe[/COLOR][COLOR blue]L[/COLOR][COLOR white]IVE[/COLOR]" version="4.8.8" provider-name="Benny123, Avigdor (xbmc-israel repo)">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="repository.xbmc-israel" />
@@ -1498,7 +1498,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.mdfm" name="Free Movies" version="1.0.5" provider-name="Mucky Duck">
+<addon id="plugin.video.mdfm" name="Free Movies" version="1.0.6" provider-name="Mucky Duck">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -1511,7 +1511,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Stream Free Content From The Web</summary>
-    <description lang="en">Stream Free Content From The Web</description>
+    <description lang="en">This Addon Will Delete Itself Unless You Have http://muckysmediaportal4kodi.ml In File Manager. Stream Free Content From The Web.</description>
 	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
     <platform>all</platform>
   </extension>
