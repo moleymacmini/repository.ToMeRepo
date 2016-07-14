@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.communityallsorts"
-       name="[COLOR gold]-COMMUNITY-ALLSORTS-[/COLOR]"
-       version="2.8"
-       provider-name="[COLOR blue]COMMUNITY-REPO-TEAM[/COLOR][COLOR gold]-@COMMUNITYREPO @DIBBO10069 @DETECTIVEKODI @KODICOMMUNITY @ALEIGHTY80 @PBEAR90 @DTGSKINS  @STEVIEK1979 @_HAX0R @OLDGIT9 @CLASSICNANCY @KODI_MAD-[/COLOR]">
+       name="[B][COLOR gold]-COMMUNITY-ALLSORTS-[/B][/COLOR]"
+       version="3.5"
+       provider-name="[B][COLOR blue]@DIBBO10069[/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -24,10 +24,10 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR red]-A VAST MAJORITY OF ENTERTAINMENT-[/COLOR]</summary>
-    <description lang="en">[COLOR blue]-SOMETHING FOR EVERYONE-[/COLOR][COLOR lime]-Due to the nature of our content, we are not responsible for the content streamed to your device and neither do we condone piracy so you must satisfy yourself that either you or the sites accessed for streaming have the copyright agreements in place and are entitled to access this content.
+    <summary lang="en">[B][COLOR red]-A VAST MAJORITY OF ENTERTAINMENT-[/B][/COLOR]</summary>
+    <description lang="en">[B][COLOR blue]-SOMETHING FOR EVERYONE-[B][COLOR lime]-Due to the nature of our content, we are not responsible for the content streamed to your device and neither do we condone piracy so you must satisfy yourself that either you or the sites accessed for streaming have the copyright agreements in place and are entitled to access this content.
 We do not host or upload any video, films, media file, live streams (avi, mov, flv, mpg, mpeg, divx, dvd rip, mp3, mp4, mkv). the community repo team is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of streamed from your device. If you have any legal issues please contact the appropriate media file owners or host sites.
-We have no control over the links on any site that we provide a link to. If you see any form of infringements, please contact appropriate media file owners or host sites immediately-[/COLOR]</description>
+We have no control over the links on any site that we provide a link to. If you see any form of infringements, please contact appropriate media file owners or host sites immediately-[/B][/COLOR]</description>
     <platform>all</platform>
   </extension>
 </addon>
