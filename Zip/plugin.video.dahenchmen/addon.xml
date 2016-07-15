@@ -1,35 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.dahenchmen"
-       name="[COLOR red]DaHenchmen[/COLOR]"
-       version="1.2.0"
-       provider-name="[COLOR red]DaHenchmen[/COLOR]">
+<addon id="plugin.video.dahenchmen" name="[COLOR red]DaHenchmen[/COLOR]" version="1.2.4" provider-name="Team Evolve, DaHenchmen">
   <requires>
-    <import addon="xbmc.python" version="2.24.0"/>
-	<import addon="script.module.t0mm0.common" version="2.1.1"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="1.9.5"/>
-    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" version="0.8.0"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="5.2.1"/>
-	<import addon="script.module.addon.common" version="2.0.0"/>
-	<import addon="script.common.plugin.cache" version="2.5.8"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.module.liveresolver" version="0.1.24"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
     <import addon="script.module.metahandler" version="2.5.1"/>
-    <import addon="script.module.parsedom" version="2.5.2"/>
-	<import addon="script.module.myconnpy" version="1.1.7"/>
-	<import addon="script.module.elementtree" version="1.2.8"/>
-	<import addon="plugin.video.f4mTester" version="2.2.5"/>
-	<import addon="script.module.urlresolver" version="3.0.5"/>
-	<import addon="script.video.F4mProxy" version="2.5.5"/>
-	<import addon="script.module.liveresolver" version="0.1.34"/>
+    <import addon="plugin.video.youtube" optional="true" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
+        <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR red]The Best Playlist[/COLOR]</summary>
-    <description lang="en">Must install from the original Source AND Repo. The addon WILL NOT WORK if Not Installed Properly. </description>
+    <summary lang="en">The Best Damn Playlist</summary>
+    <description lang="en">Please install from the original source or the addon will delete itself. http://dahenchmen.xyz/repo</description>
     <platform>all</platform>
   </extension>
 </addon>
