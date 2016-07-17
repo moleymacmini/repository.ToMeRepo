@@ -1434,7 +1434,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
 </addon>
 <addon id="script.module.liveresolver" 
      name="LiveResolver" 
-     version="0.1.45" 
+     version="0.1.46" 
      provider-name="natko1412">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
