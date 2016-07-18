@@ -2676,7 +2676,7 @@ Highly configurable: Set your PIN, set your watershed time, exclude addons if re
 </addon>
 <addon id="plugin.video.communityallsorts"
        name="[COLOR gold]-COMMUNITY-ALLSORTS-[/COLOR]"
-       version="3.5"
+       version="4.2"
        provider-name="[COLOR blue]COMMUNITY-REPO-TEAM[/COLOR][COLOR gold]-@COMMUNITYREPO @DIBBO10069 @DETECTIVEKODI @KODICOMMUNITY @ALEIGHTY80 @PBEAR90 @DTGSKINS  @STEVIEK1979 @_HAX0R @OLDGIT9 @CLASSICNANCY @KODI_MAD-[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -3087,7 +3087,7 @@ We have no control over the links on any site that we provide a link to. If you 
         <disclaimer></disclaimer>
     </extension>
  </addon>
- <addon id="plugin.video.pandorasbox" name="Pandoras Box" version="1.1.0" provider-name="Origin">
+ <addon id="plugin.video.pandorasbox" name="Pandoras Box" version="1.1.1" provider-name="Origin">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
