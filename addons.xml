@@ -2657,7 +2657,7 @@ Highly configurable: Set your PIN, set your watershed time, exclude addons if re
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.module.stream.resolver" name="Stream Resolver" provider-name="Libor Zoubek" version="1.6.39">
+<addon id="script.module.stream.resolver" name="Stream Resolver" provider-name="Libor Zoubek" version="1.6.40">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.simplejson" version="2.0.10" />
