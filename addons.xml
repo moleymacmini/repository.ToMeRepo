@@ -3375,4 +3375,22 @@ We have no control over the links on any site that we provide a link to. If you 
   </extension>
   <extension point='xbmc.python.module' library='lib' />
 </addon>
+<addon id="plugin.video.nostalgia" name="[COLOR blue]חינוכית[/COLOR]-[COLOR green]נוסטלגיה[/COLOR]" version="2.1.2" provider-name="[COLOR gold]ToMeR[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>he</language>
+    <summary lang="he">הרחבה לצפייה , בתוכניות נוסטלגיה</summary>
+    <description lang="he">להרחבה יש מספר קטגוריות החל מתוכניות עבר, נוסטלגיה-ילדים,נוסטלגיה-כללי,תוכניות משודרות, לומדים מהבית,מוזיקה,וקטגוריה מיוחדת של ספיישלים.
+
+בכל קטגוריה תמצאו את הנושא שאליו מיועדות התוכניות, השתדלתי והתאמצתי מאוד כדי לספק לכם חוויה נוסטלגית עוצרת נשימה , כל התוכניות בפרקים מלאים , עונות מלאות,</description>
+    <disclaimer lang="en">ToMeR For Addons Premium</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
 </addons>
