@@ -2217,7 +2217,7 @@ Highly configurable: Set your PIN, set your watershed time, exclude addons if re
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.video.nostalgia" name="[COLOR blue]חינוכית[/COLOR]-[COLOR green]נוסטלגיה[/COLOR]" version="2.1.1" provider-name="[COLOR gold]ToMeR[/COLOR]">
+<addon id="plugin.video.nostalgia" name="[COLOR blue]חינוכית[/COLOR]-[COLOR green]נוסטלגיה[/COLOR]" version="2.1.2" provider-name="[COLOR gold]ToMeR[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube"/>
