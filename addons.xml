@@ -3404,4 +3404,14 @@ We have no control over the links on any site that we provide a link to. If you 
     <website>https://pypi.python.org/pypi/six</website>
   </extension>
 </addon>
+<addon id="script.module.tknorris.shared" name="TKNorris Common Libraries" version="0.0.1" provider-name="tknorris">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Reusable Modules used by several of tknorris's addons</summary>
+	</extension>
+</addon>
 </addons>
