@@ -1,3 +1,14 @@
+[B]Version 1.1.22[/B]
+Added: HentaiHaven
+Fixed: Stopped flooding the log with warnings
+
+
+[B]Version 1.1.21[/B]
+Fixed: FlashX
+Fixed: Tubepornclassic categories
+Fixed: xxxstreams(org)
+
+
 [B]Version 1.1.20[/B]
 Fixed: Pornhive
 
