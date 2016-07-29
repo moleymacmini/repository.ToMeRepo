@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.AK-47"
        name="[COLOR red]AK[/COLOR] [COLOR yellow]-[/COLOR] [COLOR turquoise]47[/COLOR]"
-       version="1.0.6"
+       version="1.0.7"
        provider-name="[COLOR red][B]COLD[/B][/COLOR][COLOR turquoise][B]FIRE[/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>

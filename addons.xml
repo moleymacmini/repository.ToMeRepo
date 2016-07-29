@@ -1806,9 +1806,9 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
         <disclaimer></disclaimer>
     </extension>
  </addon>
- <addon id="plugin.video.AK-47"
+<addon id="plugin.video.AK-47"
        name="[COLOR red]AK[/COLOR] [COLOR yellow]-[/COLOR] [COLOR turquoise]47[/COLOR]"
-       version="1.0.6"
+       version="1.0.7"
        provider-name="[COLOR red][B]COLD[/B][/COLOR][COLOR turquoise][B]FIRE[/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -1822,18 +1822,20 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
 	<import addon="script.common.plugin.cache" version="2.5.2"/>
 	<import addon="script.module.metahandler" version="2.5.1"/>
   </requires>
+  
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-        <summary>[COLOR cyan][B]Best of the best from fabio_kapone and Billy_Hope[/B][/COLOR]</summary>
-        <description lang="en">[B]Enjoy watching:
-		[COLOR red]Movies[/COLOR], [COLOR yellow]TV-Shovs[/COLOR], [COLOR turquoise]Documentaries[/COLOR], [COLOR limegreen]Toons[/COLOR] and ofcourse [COLOR red]Live TV[/COLOR][/B]
-		[COLOR pink][B]PS: Live TV links may up and down, as they are free. Don't check the teeth of a gifted hourse![/B][/COLOR]</description>
+        <summary>[COLOR cyan]Best of the best from C0LDFIRE and BillyHope[/COLOR]</summary>
+        <description lang="en">Enjoy watching:
+		[COLOR red]Movies[/COLOR], [COLOR yellow]TV-Shovs[/COLOR], [COLOR turquoise]Documentaries[/COLOR], [COLOR limegreen]Toons[/COLOR] and ofcourse [COLOR red]Live TV[/COLOR]
+		[COLOR pink]PS: Live TV links may up and down, as they are free. Don't check the teeth of a gifted horse![/COLOR]</description>
         <platform>all</platform>
   </extension>
 </addon>
