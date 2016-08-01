@@ -1420,7 +1420,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="script.module.urlresolver" name="URLResolver" version="3.0.15" provider-name="Eldorado">
+<addon id="script.module.urlresolver" name="URLResolver" version="3.0.16" provider-name="Eldorado">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
@@ -1735,7 +1735,7 @@ Donatello donations: http://donatellokodi.blogspot.co.il/2015/10/blog-post.html
  </addon>
 <addon id="plugin.video.ZemTV-shani"
        name="ZemTV.com"
-       version="4.9.6"
+       version="4.9.7"
        provider-name="shani">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
