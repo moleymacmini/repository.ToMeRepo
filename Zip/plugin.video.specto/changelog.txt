@@ -1,3 +1,6 @@
+2016.08.01.1:
+    imdb fix - movie and tvshows now works
+
 2016.07.30.2:
     openload fix - Code take from plugin IPTVPlayer: "https://gitlab.com/iptvplayer-for-e2/iptvplayer-for-e2/
 
